@@ -2,6 +2,13 @@ button{
     background: #000;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 30px;
-    color: aquamarine;
+    color: aqua;
     transform: perspective();
+    text-align: center;
+}
+
+a{
+    font-size: 50px;
+    font-family: sans-serif;
+    text-decoration: none;
 }
