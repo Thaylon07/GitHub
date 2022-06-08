@@ -1,6 +1,5 @@
-body{
-    background: #000000;
-    font-family: sans-serif;
-    font-size: 25px;
-    text-align: center;
+a{
+    color: aqua;
+    background: none;
+    font-size: larger;
 }
