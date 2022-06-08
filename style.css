@@ -3,3 +3,16 @@ a{
     background: none;
     font-size: larger;
 }
+
+body{
+    background: #000000;
+    font-family: sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+input{
+    transform: matrix3d();
+    transform-origin: 0em;
+    font-family: sans-serif;
+}
